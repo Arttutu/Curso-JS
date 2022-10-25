@@ -8,6 +8,7 @@ console.log ("Sentença de código");
         //no javascript não tem indentação obrigatória.
         console.log("olá");
         console.log('mundo!')
+        
     }
 
 }
