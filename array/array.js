@@ -31,5 +31,5 @@ delete aprovado[1]
 aprovado = ['bia','carlos','Ana']
 console.log(aprovado[1])
 console.log(aprovado[2])
-aprovado.slice(1,1, 'elemento1', 'elemento2')
+aprovado.splice(1,1, 'elemento1', 'elemento2')
 console.log(aprovado)
