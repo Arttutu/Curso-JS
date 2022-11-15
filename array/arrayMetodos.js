@@ -19,5 +19,5 @@ console.log(pilotos)
 // Método retorna um novo array, a partir do índice que está passando
 const algunsPilotos1 = pilotos.slice(2)
 console.log("Alguns pilotod 1: " + algunsPilotos1)
-//Pode definir um intervalo o ultimo numero passado não entra no array
+// Pode definir um intervalo o ultimo numero passado não entra no array
 const algunsPilotos2 = pilotos.slice(1, 4)
