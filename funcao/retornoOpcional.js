@@ -7,7 +7,7 @@ function area(largura, altura) {
   }
 }
 console.log(area(2, 2))
-console.log(area(2))
+console.log(area(2)) // parâmetro a menos
 console.log(area()) //não da erro, mas não faz sentido
 console.log(area(2, 2, 2, 2, 2)) // não da erro /mas não faz sentido
 console.log(area(5, 5))
